@@ -1,0 +1,20 @@
+.DS_Store
+.idea
+src/node_modules
+src/storage/*.key
+src/vendor
+src/.env
+src/.env.backup
+src/.phpunit.result.cache
+src/Homestead.json
+src/Homestead.yaml
+src/npm-debug.log
+src/yarn-error.log
+src/_ide_helper.php
+src/.phpstorm.meta.php
+
+# Public directory #
+src/public/hot
+src/public/storage
+src/public/packages
+src/public/uploads
